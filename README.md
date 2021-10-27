@@ -1,4 +1,5 @@
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-72)](https://github.com/leo-72/github-readme-stats)
+![Leo-72 GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-72&hide=contribs,prs)
+
 
 - 👋 Hi, I’m @leo-72
 - 👀 I’m interested in Coding Python, Java, HTML, CSS, PHP, Javascript
