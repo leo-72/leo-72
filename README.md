@@ -1,3 +1,5 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=leo-72&theme=<THEME_NAME>" />
+
 - 👋 Hi, I’m @leo-72
 - 👀 I’m interested in Coding Python, Java, HTML, CSS, PHP, Javascript
 - 🌱 I’m currently learning Java and Python
