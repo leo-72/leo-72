@@ -1,5 +1,5 @@
-![Leo-72 GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo-72&show_icons=true&theme=dracula)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Leo-72 GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo-72&show_icons=true&theme=dracula) <p>\n</>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<p>\n</>
 [![Leo-72 Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
