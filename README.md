@@ -1,4 +1,5 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=leo-72&theme=<THEME_NAME>" />
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-72)](https://github.com/leo-72/github-readme-stats)
+
 
 - 👋 Hi, I’m @leo-72
 - 👀 I’m interested in Coding Python, Java, HTML, CSS, PHP, Javascript
