@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?leo-72=<LEO-72>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?leo-72=<leo-72>&theme=<THEME_NAME>" />
 
 - 👋 Hi, I’m @leo-72
 - 👀 I’m interested in Coding Python, Java, HTML, CSS, PHP, Javascript
