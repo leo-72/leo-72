@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github.com/leo-72/leo-72/blob/main/media/Nero2.jpg" width=800 height=800/>
 </p>
----
+
 <p align="center">
 <a href="https://github.com/leo-72"><img title="Author" src="https://img.shields.io/badge/Github-Leopard-red.svg?style=for-the-badge&logo=github"></a>
 </p>
