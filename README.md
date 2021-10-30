@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/leo-72/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
+<a href="https://github.com/leo-72/followers"><img title="Followers" src="https://img.shields.io/github/followers/leo-72?color=blue&style=flat-square"></a>
 </p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
