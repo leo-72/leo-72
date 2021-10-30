@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/leo-72"><img title="Author" src="https://img.shields.io/badge/Leo-72-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/leo-72"><img title="Author" src="https://img.shields.io/badge/Github-Leopard-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
