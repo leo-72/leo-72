@@ -18,7 +18,6 @@
 
 ![Lines of code](https://img.shields.io/badge/I%27ve%20Written-497607%20lines%20of%20code-blue)
 ---
----
 ```python
 class say_hello:
 
@@ -34,7 +33,6 @@ class say_hello:
 if __name__ == "__main__":
     print(say_hello("Hi!, I'm Leopard!"))
 ```
----
 ---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
