@@ -11,7 +11,8 @@
 
 <p align="center">
 <a href="https://github.com/leo-72/followers"><img title="Followers" src="https://img.shields.io/github/Followers/leo-72?color=blue&style=flat-square"></a>
-<img title="Profile" src="http://img.shields.io/badge/Profile%20Views-269-blue"></a>
+<img title="Profile" src="http://img.shields.io/badge/Profile%20Views-269-blue">
+<img title="Profile" src="https://img.shields.io/badge/I%27ve%20Written-497607%20lines%20of%20code-blue">
 </p>
 
 ---
