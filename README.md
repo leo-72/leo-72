@@ -3,11 +3,9 @@
 <p align="center">
   <img src="https://github.com/leo-72/leo-72/blob/main/media/Nero2.jpg" width=800 height=800/>
 </p>
+
 <p align="center">
-<a href="#"><img title="Leopard" src="https://img.shields.io/badge/Leopard-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/leo-72"><img title="Author" src="https://img.shields.io/badge/Leopard-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/leo-72"><img title="Author" src="https://img.shields.io/badge/Leo-72-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
