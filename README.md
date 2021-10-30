@@ -1,5 +1,9 @@
 <h1 align="center">LEOPARD'S PROFILE</h1>
 
+<p align="center">
+  <img src="https://github.com/leo-72/leo-72/blob/main/naruto.png" width=128 height=128/>
+</p>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Leo-72 GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo-72&show_icons=true&theme=dracula)
