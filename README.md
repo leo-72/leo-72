@@ -32,7 +32,7 @@ class say_hello:
         return self.__str__()
 
 if __name__ == "__main__":
-    print(say_hello("Hello there 👋, I'm MhankBarBar, Nice to meet you all!"))
+    print(say_hello("Hi!, I'm Leopard!"))
 ```
 ---
 ---
