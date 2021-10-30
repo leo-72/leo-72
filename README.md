@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/leo-72/followers"><img title="Followers" src="https://img.shields.io/github/followers/leo-72?color=blue&style=flat-square"></a>
+<a href="https://github.com/leo-72"><img title="Author" src="https://img.shields.io/badge/Author-Leopard-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
