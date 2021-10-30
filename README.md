@@ -18,23 +18,27 @@
 
 ![Lines of code](https://img.shields.io/badge/I%27ve%20Written-497607%20lines%20of%20code-blue)
 ---
+---
+```python
+class say_hello:
 
+    def __init__(self, text) -> None:
+        self.text = text
+
+    def __str__(self) -> str:
+        return self.text
+
+    def __repr__(self) -> str:
+        return self.__str__()
+
+if __name__ == "__main__":
+    print(say_hello("Hello there 👋, I'm MhankBarBar, Nice to meet you all!"))
+```
+---
 ---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Leo-72 GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo-72&show_icons=true&theme=dracula)
 
 [![Leo-72 Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
----
-
----
-> 👋 Hi, I’m @leo-72
-> 
-> 👀 I’m interested in Coding Python, Java, HTML, CSS, PHP, Javascript
-> 
-> 🌱 I’m currently learning Java and Python
-> 
-> 💞️ I’m looking to collaborate on Coding in Company
-> 
-> 📫 How to reach me Instagram: @nadhifpamungkas27
 ---
