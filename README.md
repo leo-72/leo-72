@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/leo-72/leo-72/blob/main/media/Nero2.jpg" width=800 height=800/>
+  <img src="https://github.com/leo-72/leo-72/blob/main/media/Nero2.jpg" width=500 height=500/>
 </p>
 
 <p align="center">
