@@ -13,11 +13,6 @@
 <a href="https://github.com/leo-72/Followers"><img title="Followers" src="https://img.shields.io/github/followers/leo-72?color=blue&style=flat-square"></a>
 </p>
 
-<p align="center">
-<img title="Profile" src="http://img.shields.io/badge/Profile%20Views-269-blue">
-<img title="Profile" src="https://img.shields.io/badge/I%27ve%20Written-78907%20lines%20of%20code-blue">
-</p>
-
 ---
 ```python
 class say_hello:
