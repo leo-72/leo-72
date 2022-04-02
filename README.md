@@ -34,5 +34,4 @@ if __name__ == "__main__":
 
 ![Leo-72 GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo-72&show_icons=true&theme=dracula)
 
-[![Leo-72 Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 ---
