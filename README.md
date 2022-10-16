@@ -14,8 +14,9 @@
 </p>
 
 <p align="center">
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ![Leo-72 GitHub Stats](https://github-readme-stats.vercel.app/api?username=leo-72&show_icons=true&theme=dracula)
-</p>
+
 ---
