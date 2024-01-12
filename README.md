@@ -3,7 +3,7 @@
   
   ---
   
-  ![avatar](https://images.weserv.nl/?url=github.com/leo-72/leo-72/blob/main/media/Nero2.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
+  ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/75942573?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
   
   <img src="https://github.com/leo-72/leo-72/blob/main/media/Nero2.jpg" width=500 height=500 style="border-radius: 50%;"/>
   
